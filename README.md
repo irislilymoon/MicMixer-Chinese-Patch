@@ -7,7 +7,7 @@ MicMixer 是一款开源(Apache-2.0)的虚拟麦克风混音工具:把你的麦�
 ## 安装
 
 1. 先安装官方原版 [MicMixer v2026.11.1](https://github.com/benjibutten/MicMixer/releases)(安装时勾选安装 VB-CABLE 虚拟声卡)
-2. 从本仓库 [Releases](../../releases) 下载 `MicMixer汉化补丁.zip`,解压
+2. 从本仓库 [Releases](../../releases) 下载 `MicMixer-Chinese-Patch-2026.11.1.zip`,解压
 3. 双击 `安装汉化补丁.bat`,UAC 弹窗点"是"
 4. 启动 MicMixer 即为中文界面;游戏/语音软件的**麦克风**选 `MicMixer Output (VB-Audio Virtual Cable)`(只需一次)
 
